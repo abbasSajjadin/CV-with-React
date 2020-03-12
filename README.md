@@ -1,2 +1,2 @@
 # CV-with-React
-Create an website application to show your CV
+Create an website application to show my CV
